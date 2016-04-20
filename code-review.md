@@ -1,6 +1,6 @@
 # Code Review
 
-Code reviews help all developers to better understand a project and the decisions that are made in the development process. When code reviews are a regular part of the developer workflow, there is always more than one person who is familiar with each part of the project. We are able to discuss our ideas and gain insight into different ways to approach a problem. As part of our (pull request process)[https://github.com/HaughtCodeworks/TeamGuide], the author of a branch tags 1-2 other developers to review her work and perform a code review.
+Code reviews help all developers to better understand a project and the decisions that are made in the development process. When code reviews are a regular part of the developer workflow, there is always more than one person who is familiar with each part of the project. We are able to discuss our ideas and gain insight into different ways to approach a problem. As part of our [pull request process](/HaughtCodeworks/TeamGuide/blob/master/developer-workflow.md), the author of a branch tags 1-2 other developers to review her work and perform a code review.
 
 ## Notes for Everyone
 
