@@ -21,7 +21,7 @@ The "Development" column is for cards that are actively being worked on. It is i
 
 ### The "Needs Review" Column
 
-When a developer has completed the task on a card, we kick off the pull request process, which is explained in more detail in our [developer workflow](/HaughtCodeworks/TeamGuide/blob/master/developer-workflow.md) document. The "Needs Review" column represents cards currently under code review in the PR process. After a PR has been fully approved, the feature is merged into the master branch and deployed to the staging environment.
+When a developer has completed the task on a card, we kick off the pull request process, which is explained in more detail in our [developer workflow](/developer-workflow.md) document. The "Needs Review" column represents cards currently under code review in the PR process. After a PR has been fully approved, the feature is merged into the master branch and deployed to the staging environment.
 
 ### The "Staging" Column
 
