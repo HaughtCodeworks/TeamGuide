@@ -73,4 +73,4 @@ This is a non-billable task that is included in case you're doing research on so
 
 ## Support
 
-If a project needs us to provide end user support or training, this task gets used for that time. 
+If a project needs us to provide end user support or training, this task gets used for that time.
