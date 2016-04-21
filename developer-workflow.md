@@ -4,7 +4,7 @@ Each project may vary so this guide describes our standard workflow.
 
 # Assigning Work
 
-Each project will have a weekly planning meeting to go over what's new on the project, recently completed items, and what the team will work on in the coming week.  We cover the elements of this meeting in more detail in our [Project Planning Meeting guide](/HaughtCodeworks/TeamGuide/blob/markdown/project-planning.md).  We'll focus here on the developer-centric elements of work once it has been assigned.
+Each project will have a weekly planning meeting to go over what's new on the project, recently completed items, and what the team will work on in the coming week.  We cover the elements of this meeting in more detail in our [Project Planning Meeting guide](/project-planning.md).  We'll focus here on the developer-centric elements of work once it has been assigned.
 
 # Card Review
 
@@ -32,14 +32,14 @@ During the planning meeting, the team will discuss with the client each item (wh
 * Update the project board to indicate you've started on the card.
 * Create a local feature branch in git based off master. Give your branch a short descriptive name based on the card on which you are working.
 * Review the checklist and update it based on what you need to do for card completion.
-* Map out your testing strategy for your card before you begin to change any code.  Refer to the [QA Mindset](/HaughtCodeworks/TeamGuide) for guidance on the right level of testing.
+* Map out your testing strategy for your card before you begin to change any code.  Refer to the [QA Mindset](/qa-mindset.md) document for guidance on the right level of testing.
 * Consider breaking down the steps for completion into smaller chunks allowing you to test and commit those changes more quickly, especially if they are isolated in different parts of the system.  Update your checklist as appropriate.
 * Work through each checklist item using test driven development to test, verify and complete that step.  Unless the step has no UI elements, manually test the change in the browser on your local environment.
 * Consider whether refactoring the current step makes sense or if you should continue to the next checklist item.
 * Once you've completed a step, make sure the entire test suite passes and your changes haven't broken the build.
 * Verify your changes locally with real data. Play with the feature and ensure the user experience is good.
 * Determine if this step should be committed on its own or if you want to include it in the next step.
-* Add to the project README as you develop, making note of any steps required for deployment and testing: migrations, running scripts, updates to the server, etc. Add this information to your card, in addition to the README. See our [readme document](/HaughtCodeworks/TeamGuide/blob/master/readme-guide.md) for more on this.
+* Add to the project README as you develop, making note of any steps required for deployment and testing: migrations, running scripts, updates to the server, etc. Add this information to your card, in addition to the README. See our [readme](/HaughtCodeworks/TeamGuide/blob/master/readme-guide.md) document for more on this.
 * Stage your work into git verifying that all files necessary for this change are included and no unwanted changes or files will be committed.  Be extra careful that no files with sensitive data such as keys or passwords have been added.
 * Commit to git, adding a meaningful message that describes the change from a business perspective and references the card ID.  It's important to note that these messages will most often be viewed by the team sometime in the future so make it useful from a historic and troubleshooting standpoint.
 * Continue through the remaining checklist items on your card in the above manner until complete.
@@ -53,7 +53,7 @@ During the planning meeting, the team will discuss with the client each item (wh
 
 * Post in team chat that your pull request is ready for review and your branch is on the integration environment.
 * A team member other than the author reviews the pull request. Follow the [Code Review guidelines](/code-review.md) to avoid miscommunication. Make comments and ask questions directly on lines of code in the GitHub/ BitBucket repo or in team chat.
-* Reviewers verify integration functionality before approving a pull request. Verification in integration should happen with a [QA mindset](/HaughtCodeworks/TeamGuide).
+* Reviewers verify integration functionality before approving a pull request. Verification in integration should happen with a [QA mindset](/qa-mindset.md).
 * Reviewers comment on any issues they see or any improvements that they feel are important enough to address before approving the PR.
 * The author then addresses the feedback following the Development process above, introducing new commits as necessary.
 * Reviewers and the author continue this process of review and feedback until the PR can be approved. Approval can be a formal approval, +1 or a comment such as 'Ready to merge' or 'Looks good'.
