@@ -13,9 +13,9 @@ For each card we want to cover the following:
 
 Review any cards under development with a short status update on each one. Though we want to keep this step brief, we do want to know if anything has changed on these cards.
 
-Review any cards that haven't been previously discussed or may have changed since our last meeting. The [Developer Workflow](/HaughtCodeworks/TeamGuide/blob/master/developer_workflow.md) has a detailed section titled Card Review that has a thorough list of elements to be discussed.
+Review any cards that haven't been previously discussed or may have changed since our last meeting. The [Developer Workflow](/developer-workflow.md) has a detailed section titled Card Review that has a thorough list of elements to be discussed.
 
-Ask if there are any new cards that should be added to the board. If so, add them and review them in detail according to the [Developer Workflow](/HaughtCodeworks/TeamGuide/blob/master/developer_workflow.md).
+Ask if there are any new cards that should be added to the board. If so, add them and review them in detail according to the [Developer Workflow](/developer-workflow.md).
 
 Ask the client if all cards are ordered in priority with highest priority being listed at top.  If not, ask how they should be adjusted.  Determine if any cards should be postponed for another time.
 
