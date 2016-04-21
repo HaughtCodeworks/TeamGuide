@@ -39,7 +39,7 @@ During the planning meeting, the team will discuss with the client each item (wh
 * Once you've completed a step, make sure the entire test suite passes and your changes haven't broken the build.
 * Verify your changes locally with real data. Play with the feature and ensure the user experience is good.
 * Determine if this step should be committed on its own or if you want to include it in the next step.
-* Add to the project README as you develop, making note of any steps required for deployment and testing: migrations, running scripts, updates to the server, etc. Add this information to your card, in addition to the README. See our [readme](/HaughtCodeworks/TeamGuide/blob/master/readme-guide.md) document for more on this.
+* Add to the project README as you develop, making note of any steps required for deployment and testing: migrations, running scripts, updates to the server, etc. Add this information to your card, in addition to the README. See our [readme](/readme-guide.md) document for more on this.
 * Stage your work into git verifying that all files necessary for this change are included and no unwanted changes or files will be committed.  Be extra careful that no files with sensitive data such as keys or passwords have been added.
 * Commit to git, adding a meaningful message that describes the change from a business perspective and references the card ID.  It's important to note that these messages will most often be viewed by the team sometime in the future so make it useful from a historic and troubleshooting standpoint.
 * Continue through the remaining checklist items on your card in the above manner until complete.
