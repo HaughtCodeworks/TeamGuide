@@ -13,7 +13,7 @@ Code reviews help all developers to better understand a project and the decision
 * Be humble. ("I'm not sure - let's look it up.")
 * Don't use hyperbole ("always", "never", "endlessly", "nothing") or sarcasm.
 * Talk in person if there is a misunderstanding or too many back and forth comments. Post a follow-up comment summarizing offline discussion.
-* Consider and comment on style in code reviews. We prefer to draw our style inspiration from [Thoughtbot's Style Guide](https://github.com/thoughtbot/guides/tree/master/style/ruby).
+* Consider and comment on style in code reviews. We prefer to draw our style inspiration from [Airbnb's Style Guide](https://github.com/airbnb/ruby).
 
 ## Notes for the Author
 
